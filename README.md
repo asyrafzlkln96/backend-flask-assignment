@@ -19,17 +19,22 @@ Install postman and send/GET data to specified route. (as mention in below route
 
 # Sample Postman:
 * List all tasks - GET method:
+![image](https://user-images.githubusercontent.com/53460015/185173981-201f3d4a-5d98-4fca-a4d1-62e5efed86f0.png)
+
 
 
 * Post new task - POST method:
+![image](https://user-images.githubusercontent.com/53460015/185174185-54ebf1a9-374b-4cb9-9bee-f75d2dba9c1f.png)
 
 
 
 * Update task - PUT method:
+![image](https://user-images.githubusercontent.com/53460015/185176230-56dafa04-4d8c-487e-9c35-208b58ef0abc.png)
 
 
 
 * Delete task- DELETE method:
+![image](https://user-images.githubusercontent.com/53460015/185175550-49575649-557c-4d96-ad13-a020157351d8.png)
 
 
 
