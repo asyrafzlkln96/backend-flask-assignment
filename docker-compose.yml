@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  app:
+    build: .
+    # command: python app/app.py
+    command: bash -c "pip install -r requirements.txt && python app/app.py"
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/backend-flask-assignment-main
