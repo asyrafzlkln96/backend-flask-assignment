@@ -13,4 +13,4 @@ COPY requirements.txt /tmp/
 RUN pip install --requirement /tmp/requirements.txt
 
 # configure the container to run in an executed manner
-ENTRYPOINT ["python3", "app.py"]
+ENTRYPOINT ["python3", "app/app.py"]
