@@ -12,7 +12,7 @@ This project is created using Flask framework.
 
 # Usage:
 Two ways to run this app:
-1. Run python app.py. Install requirements.txt.
+1. Install libraries by running pip install -r requirements.txt and run python app.py. .
 2. Install docker. Run docker compose up -d.
 
 Install postman and send/GET data to specified route. (as mention in below route)
